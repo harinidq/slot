@@ -124,9 +124,11 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
+![image](https://github.com/harinidq/slot/assets/113497680/fbc4da86-5159-4691-860c-b91c25a80da3)
 
 
 ## HTML VALIDATOR
+![web2](https://github.com/harinidq/slot/assets/113497680/2e95b631-ad48-4e31-b79c-2d3f0d151dcb)
 
 
 ## RESULT
